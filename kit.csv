@@ -1,0 +1,11 @@
+selling_product_id,category_id,selling_product_name,kit_quantity_type,kit_price
+1,8,Natural-Fertlizer,Kilogram,135
+2,23,Urea-Fertilizer,Kilogram,249
+3,12,Hand-Carts,Piece,899
+4,12,Composter,Piece,12680
+5,20,Bio-Fertilizers,Kilogram,200
+6,12,Digging-Shovel,Piece,350
+7,24,Organic-Fertilizer,Kilogram,460
+8,26,Cucumber-Seeds,Gram,100
+9,12,Transfer-Shovel,Piece,300
+10,12,Spades,Piece,399
