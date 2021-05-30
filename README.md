@@ -15,7 +15,9 @@ The scope of this application currently includes all the cities and districts pr
 
 
 SOFTWARES AND MODULES USED
+
 SOFTWARE REQUIREMENTS
+
 •	Operating system – Windows 10 is used as the operating system as it is
 stable and supports more features and is more user friendly.
 •	Database Management System – DB Browser for SQLite (DB4S) is a high quality, visual, open-source tool to create, design, and edit database files compatible with SQLite.
@@ -23,13 +25,17 @@ stable and supports more features and is more user friendly.
 •	Development tools and Programming language – Python is used to write
 the whole code and Python Tkinter is used for designing and styling of
 front end.
+
 TOOLS AND LIBRARIES USED
+
 TOOLS
+
 •	PyCharm IDE is used for writing the code and developing the system.
 •	DB Browser for SQLite Libraries
 •	Canva- Used to edit images used in the background and on buttons
 
 LIBRARIES
+
 The following python libraries have been used:
 •	tkinter – Tkinter is the standard GUI (Graphic User Interface) library for
 Python. Tkinter provides a fast and easy way to create GUI applications.
